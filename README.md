@@ -4,7 +4,7 @@ We acknowledge the {insert-service-name} at The Institute of Cancer Research for
 ---
 
 ## Service Description
-# {insert-service-description-name}
+# Antibody facility
 
 ### {insert-service-parent}, Institute of Cancer Research  
 {description of servcice}
