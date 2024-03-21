@@ -1,6 +1,6 @@
 ## Acknowledgement
-We acknowledge the {Antibody facility} at The Institute of Cancer Research for providing Antibody facility. Their support was instrumental in achieving the results presented in this paper. {insert doi badge from zenodo}
-http://zenodo.org/
+We acknowledge the {Antibody facility} at The Institute of Cancer Research for providing Antibody facility. Their support was instrumental in achieving the results presented in this paper. (http://zenodo.org/)
+
 ---
 
 ## Service Description
