@@ -1,5 +1,5 @@
 ## Acknowledgement
-We acknowledge the Antibody facility at The Institute of Cancer Research for providing Antibodies. Their support was instrumental in achieving the results presented in this paper [[10.5281/zenodo.14748209](https://doi.org/10.5281/zenodo.14748209)](https://doi.org/10.5281/zenodo.14748209)
+We acknowledge the Antibody facility at The Institute of Cancer Research for providing Antibodies. Their support was instrumental in achieving the results presented in this paper [10.5281/zenodo.14748209](https://doi.org/10.5281/zenodo.14748209)
 
 ## Service Description
 # Antibody facility
