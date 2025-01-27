@@ -1,7 +1,6 @@
 ## Acknowledgement
-We acknowledge the Antibody facility at The Institute of Cancer Research for providing Antibody facility. Their support was instrumental in achieving the results presented in this paper [https://doi.org/10.5281/zenodo.10849473](https://doi.org/10.5281/zenodo.10849473)
+We acknowledge the Antibody facility at The Institute of Cancer Research for providing Antibodies. Their support was instrumental in achieving the results presented in this paper [https://doi.org/10.5281/zenodo.10849473](https://doi.org/10.5281/zenodo.10849473)
 
----
 
 ## Service Description
 # Antibody facility
@@ -20,10 +19,6 @@ At the Antibody Facility, we are committed to helping you achieve your research 
 
 ### Service Capabilities and Applications
 **Service 1**: Antibody screening - Phage Display Technology
-
-
----
-
 
 
 ### Alumni
